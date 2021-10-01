@@ -1,5 +1,5 @@
 #include <stdio.h>
-----
+
 main(void){
     while(1){
 
